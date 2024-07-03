@@ -1,24 +1,39 @@
+# microbit-ampel
+Eine Verkehrsampel mit mehrere Funktionen.
 
-> Open this page at [https://lifeline4603.github.io/ampel-microbit/](https://lifeline4603.github.io/ampel-microbit/)
+todo:
+- [ ] Optimierung
+- [ ] Funktionen einbauen
+- [ ] 4 Ampel system
+- [ ] Bug fix mit Fußgänger Ampel
 
-## Use as Extension
+V2 (neu):
+![](https://i.imgur.com/nXQtG48.png)
 
-This repository can be added as an **extension** in MakeCode.
+V1 (alt):
+![](https://i.imgur.com/PSv8iyj.jpeg)
+![](https://i.imgur.com/jgMZZZK.png)
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/lifeline4603/ampel-microbit** and import
+> Öffnen: [https://lifeline4603.github.io/ampel-microbit/](https://lifeline4603.github.io/ampel-microbit/)
 
-## Edit this project
+## Als Erweiterung hinzufügen
 
-To edit this repository in MakeCode.
+Dieses Projekt kann man als Erweiterung hinzufügen
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/lifeline4603/ampel-microbit** and click import
+* Öffne [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* Click auf **Neuer Projekt**
+* Click auf **Erweiterungen** unter dem Zahnrad
+* Such für **https://github.com/lifeline4603/ampel-microbit** und drück "Import"
 
-#### Metadata (used for search, rendering)
+## Bearbeitung
 
-* for PXT/microbit
+Um dieses Projekt in Makecode zu bearbeiten.
+
+* Öffne [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* Click auf **Import** und dann drück **Import URL**
+* Füge **https://github.com/lifeline4603/ampel-microbit** ein und click Import
+
+#### Metadata (Für suchen und rendering)
+
+* für PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
