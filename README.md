@@ -1,4 +1,4 @@
-# microbit-ampel
+# ampel-microbit
 Eine Verkehrsampel mit mehrere Funktionen.
 
 todo:
