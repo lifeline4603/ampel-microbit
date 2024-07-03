@@ -5,7 +5,7 @@ todo:
 - [ ] Optimierung
 - [ ] Funktionen einbauen
 - [ ] 4 Ampel system
-- [ ] Bug fix mit Fußgänger Ampel
+- [x] Bug fix mit Fußgänger Ampel
 
 V2 (neu):
 ![](https://i.imgur.com/nXQtG48.png)
